@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Ciencia ficción",
+    "year": 2010,
+    "image": "https://image.tmdb.org/t/p/w500/8h58n7w4h5oV6e7Xq2P7lXz1d3R.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "genre": "Romance",
+    "year": 1997,
+    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "genre": "Acción",
+    "year": 2008,
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Coco",
+    "genre": "Animación",
+    "year": 2017,
+    "image": "https://image.tmdb.org/t/p/w500/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "genre": "Acción",
+    "year": 2019,
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "genre": "Ciencia ficción",
+    "year": 2014,
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  }
+]
